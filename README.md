@@ -1,6 +1,6 @@
 # MOHAMED SHAFEEQ SHIHABUDHEEN
+  S7 ME,MESCE
 # mshafee.github.io
-my fablab experience @ mesce,kuttippuram
 
 
 # Fablab:
