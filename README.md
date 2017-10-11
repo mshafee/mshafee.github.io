@@ -22,10 +22,12 @@ There are around 22 fablabs in kerala Mes college of engineering,Kuttippuram is 
 
 ## Laser Cutting Machine
 <img src=".jpg" alt="" style="width:304px;height:228px;">
+
 For laser cutting, we design 2D dwawings using RHINOCEROS ,SKETCHUP, SOLIDWORKS or any similar software and convert it into pdf format. We can use laser cutter for cutting and engraving in various materials. We can adjust the power, speed,starting position..etc usin print setup. For step by step instructions to operate epilog laser cutter
 
 ## PCB Milling Machine
 <img src="milling machine.jpg" alt="Milling Machine" style="width:304px;height:228px;">
+
 Printed circuit board milling (also: isolation milling) is the process of removing areas of copper from a sheet of printed circuit board material to recreate the pads, signal traces and structures according to patterns from a digital circuit board plan known as a layout file. 
 
 ## Vinyl Cutting Machine
