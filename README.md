@@ -15,6 +15,8 @@ There are around 22 fablabs in kerala Mes college of engineering,Kuttippuram is 
 4)Vinyl Cutting Machine
 
 ## 3D Printer
+<img src="3D PRINTER.jpg" alt="3D Printer" style="width:304px;height:228px;">
+
 3D printer is a machine allowing the creation of a physical object from a three-dimensional digital model, typically by laying down many thin layers of a material in succession. 3D printer made by Ultimaker is use in mesce fab lab
 
 ## Laser Cutting Machine
