@@ -21,7 +21,7 @@ There are around 22 fablabs in kerala Mes college of engineering,Kuttippuram is 
 3D printer is a machine allowing the creation of a physical object from a three-dimensional digital model, typically by laying down many thin layers of a material in succession. 3D printer made by Ultimaker is use in mesce fab lab
 
 ## Laser Cutting Machine
-<img src=".jpg" alt="" style="width:304px;height:228px;">
+<img src=mshafee.github.io/IMAG5451.jpg style="width:304px;height:228px;">
 
 For laser cutting, we design 2D dwawings using RHINOCEROS ,SKETCHUP, SOLIDWORKS or any similar software and convert it into pdf format. We can use laser cutter for cutting and engraving in various materials. We can adjust the power, speed,starting position..etc usin print setup. For step by step instructions to operate epilog laser cutter
 
