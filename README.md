@@ -27,10 +27,15 @@ Fablab or fabrication lab is a small scale workshop equipped with computer contr
 <img src="fablab.jpg" alt="fablab" style="width:700px;height:228px;">
 
 There are around 22 fablabs in kerala Mes college of engineering,Kuttippuram is one among them. They have a well develepod fablab in which student and faculty development programs are taking place. Fablab(MESCE) consists of the below mentioned machines.
+
 1)3D Printer
+
 2)Laser Cutting Machine
+
 3)PCB Milling Machine
+
 4)Vinyl Cutting Machine
+
 5)Sand Plaster Machine
 
 ## 3D Printer
